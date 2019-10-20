@@ -4,209 +4,299 @@
         "price1": " R$ 308.400,00 ",
         "price2": " R$ 172.720,00 ",
         "classification": "Conjunto Comercial | 70,55m²",
-        "link": "https://www.zukerman.com.br/conjunto-comercial-bairro-do-limao-sao-paulo-sp-17698-138165"
-    },
-    {
-        "address": " Avenida Nossa Senhora do Ó, 865 ",
-        "price1": " R$ 301.500,00 ",
-        "price2": " R$ 168.880,00 ",
-        "classification": "Conjunto Comercial | 68,98m²",
-        "link": "https://www.zukerman.com.br/conjunto-comercial-bairro-do-limao-sao-paulo-sp-17698-138166"
-    },
-    {
-        "address": " Rua Antônio Flaquer, 423 ",
-        "price1": " R$ 341.245,28 ",
-        "price2": " R$ 204.747,17 ",
-        "classification": "Apartamento | 70,53m²",
-        "link": "https://www.zukerman.com.br/apartamento-barro-branco--sao-paulo-sp-17671-137901"
-    },
-    {
-        "address": " Rua Santa Donata, 388 a 430 ",
-        "price1": " R$ 1.708.953,73 ",
-        "price2": " R$ 855.074,47 ",
-        "classification": "Casas | 640,00m2",
-        "link": "https://www.zukerman.com.br/casas-casa-verde-sao-paulo-sp-17490-136812"
-    },
-    {
-        "address": " Rua Adão Martins de Almeida Castilho, 138 ",
-        "price1": " R$ 251.300,61 ",
-        "price2": " R$ 125.650,30<span class=\"sqla\"> | 3 lances</span> ",
-        "classification": "Casa | 124,50m2",
-        "link": "https://www.zukerman.com.br/casa-casa-verde-sao-paulo-sp-17490-136813"
-    },
-    {
-        "address": " Rua Brigadeiro Xavier de Brito, 580 ",
-        "price1": " R$ 416.980,28 ",
-        "price2": " R$ 208.635,95 ",
-        "classification": "Casa | 156,25m2",
-        "link": "https://www.zukerman.com.br/casa-casa-verde-sao-paulo-sp-17490-136814"
+        "link": "https://www.zukerman.com.br/conjunto-comercial-bairro-do-limao-sao-paulo-sp-17698-138165",
+        "latitude": "-23.5042493",
+        "longitude": "-46.6804156",
+        "zipcode": "\"02675-031\""
     },
     {
         "address": " Rua Padre Gualberto de Lima, 151 ",
         "price1": " R$ 197.300,00 ",
         "price2": "",
         "classification": "Apartamento",
-        "link": "javascript:link_externo(17859,138977);"
-    },
-    {
-        "address": " Rua do Horto, 1690 ",
-        "price1": " R$ 3.400.000,00 ",
-        "price2": "",
-        "classification": "Casa | 750,00m2",
-        "link": "https://www.zukerman.com.br/casa-horto-florestal-sao-paulo-sp-17864-139027"
-    },
-    {
-        "address": " Rua Manguari, 401 ",
-        "price1": " R$ 268.538,48 ",
-        "price2": " R$ 161.042,52 ",
-        "classification": "Apartamento | 48,48m²",
-        "link": "https://www.zukerman.com.br/apartamento-jardim-andarai-sao-paulo-sp-17313-136088"
-    },
-    {
-        "address": " Rua Soldado Paulo Emídio Pereira, 322 ",
-        "price1": " R$ 454.369,85 ",
-        "price2": "",
-        "classification": "Casa",
-        "link": "https://www.zukerman.com.br/casa-jardim-japao-sao-paulo-sp-17743-138431"
-    },
-    {
-        "address": " Rua Geraldo Marino, 59 ",
-        "price1": " R$ 277.000,00 ",
-        "price2": "",
-        "classification": "Casa | 150,00m2",
-        "link": "https://www.zukerman.com.br/casa-jardim-princesa-sao-paulo-sp-17544-138329"
-    },
-    {
-        "address": " Rua Maestro Antão Fernandes, 85 ",
-        "price1": " R$ 3.990.000,00 ",
-        "price2": "",
-        "classification": "Residencial / Comercial | 464,00m2",
-        "link": "https://www.zukerman.com.br/residencial-comercial-jardim-sao-bento-sao-paulo-sp-17571-137633"
-    },
-    {
-        "address": " Rua Ipeúva, 36 ",
-        "price1": " R$ 257.000,00 ",
-        "price2": "",
-        "classification": "Casa | 96,87m2",
-        "link": "https://www.zukerman.com.br/casa-jardim-sao-paulo-sao-paulo-sp-17822-138817"
+        "link": "javascript:link_externo(17859,138977);",
+        "latitude": "-23.4901688",
+        "longitude": "-46.6908331",
+        "zipcode": "\"02736-600\""
     },
     {
         "address": " Rua Plínio Colas, 278 ",
         "price1": " R$ 368.976,12 ",
         "price2": " R$ 184.488,06 ",
         "classification": "Apartamento | 62,54m²",
-        "link": "https://www.zukerman.com.br/apartamento-lauzane-paulista-sao-paulo-sp-17751-138668"
+        "link": "https://www.zukerman.com.br/apartamento-lauzane-paulista-sao-paulo-sp-17751-138668",
+        "latitude": "-23.479565",
+        "longitude": "-46.6416453",
+        "zipcode": "\"02435-030\""
     },
     {
-        "address": " Avenida Professor Celesteino Bourroul, 890 ",
-        "price1": " R$ 380.646,02 ",
-        "price2": " R$ 228.387,61 ",
-        "classification": "Apartamento | 68,01m²",
-        "link": "https://www.zukerman.com.br/apartamento-limao-sao-paulo-sp-17838-138847"
+        "address": " Rua do Horto, 1690 ",
+        "price1": " R$ 3.400.000,00 ",
+        "price2": "",
+        "classification": "Casa | 750,00m2",
+        "link": "https://www.zukerman.com.br/casa-horto-florestal-sao-paulo-sp-17864-139027",
+        "latitude": "-23.4551468",
+        "longitude": "-46.6352495",
+        "zipcode": "\"02377-000\""
+    },
+    {
+        "address": " Rua Maestro Antão Fernandes, 85 ",
+        "price1": " R$ 3.990.000,00 ",
+        "price2": "",
+        "classification": "Residencial / Comercial | 464,00m2",
+        "link": "https://www.zukerman.com.br/residencial-comercial-jardim-sao-bento-sao-paulo-sp-17571-137633",
+        "latitude": "-23.5040368",
+        "longitude": "-46.64437789999999",
+        "zipcode": "\"02526-060\""
+    },
+    {
+        "address": " Rua Ipeúva, 36 ",
+        "price1": " R$ 257.000,00 ",
+        "price2": "",
+        "classification": "Casa | 96,87m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-sao-paulo-sao-paulo-sp-17822-138817",
+        "latitude": "-23.4910509",
+        "longitude": "-46.6195741",
+        "zipcode": "\"02040-035\""
     },
     {
         "address": " Rua General José de Almeida Botelho, 552 ",
         "price1": " R$ 320.843,40 ",
         "price2": " R$ 192.506,04 ",
         "classification": "Apartamento | 68,58m²",
-        "link": "https://www.zukerman.com.br/apartamento-parque-mandaqui-sao-paulo-sp-17624-137820"
+        "link": "https://www.zukerman.com.br/apartamento-parque-mandaqui-sao-paulo-sp-17624-137820",
+        "latitude": "-23.4696958",
+        "longitude": "-46.6348048",
+        "zipcode": "\"02422-090\""
     },
     {
-        "address": " Avenida Santa Inês, 881 ",
-        "price1": " R$ 649.310,90 ",
-        "price2": " R$ 389.586,54 ",
-        "classification": "Apartamento | 92,86m²",
-        "link": "https://www.zukerman.com.br/apartamento-parque-mandaqui-sao-paulo-sp-17748-138665"
+        "address": " Rua Brigadeiro Xavier de Brito, 580 ",
+        "price1": " R$ 416.980,28 ",
+        "price2": " R$ 208.635,95 ",
+        "classification": "Casa | 156,25m2",
+        "link": "https://www.zukerman.com.br/casa-casa-verde-sao-paulo-sp-17490-136814",
+        "latitude": "-23.4997459",
+        "longitude": "-46.6654518",
+        "zipcode": "\"02551-000\""
+    },
+    {
+        "address": " Avenida Nossa Senhora do Ó, 865 ",
+        "price1": " R$ 301.500,00 ",
+        "price2": " R$ 168.880,00 ",
+        "classification": "Conjunto Comercial | 68,98m²",
+        "link": "https://www.zukerman.com.br/conjunto-comercial-bairro-do-limao-sao-paulo-sp-17698-138166",
+        "latitude": "-23.5042493",
+        "longitude": "-46.6804156",
+        "zipcode": "\"02675-031\""
+    },
+    {
+        "address": " Rua Adão Martins de Almeida Castilho, 138 ",
+        "price1": " R$ 251.300,61 ",
+        "price2": " R$ 125.650,30<span class=\"sqla\"> | 3 lances</span> ",
+        "classification": "Casa | 124,50m2",
+        "link": "https://www.zukerman.com.br/casa-casa-verde-sao-paulo-sp-17490-136813",
+        "latitude": "-23.4907384",
+        "longitude": "-46.65928419999999",
+        "zipcode": "\"02542-040\""
+    },
+    {
+        "address": " Rua Antônio Flaquer, 423 ",
+        "price1": " R$ 341.245,28 ",
+        "price2": " R$ 204.747,17 ",
+        "classification": "Apartamento | 70,53m²",
+        "link": "https://www.zukerman.com.br/apartamento-barro-branco--sao-paulo-sp-17671-137901",
+        "latitude": "-23.4699122",
+        "longitude": "-46.6085955",
+        "zipcode": "\"02344-070\""
     },
     {
         "address": " Rua Piracema, 276 ",
         "price1": " R$ 1.475.389,31 ",
         "price2": " R$ 960.815,20 ",
         "classification": "Apartamento | 134,73m²",
-        "link": "https://www.zukerman.com.br/apartamento-santa-teresinha-sao-paulo-sp-17744-138689"
+        "link": "https://www.zukerman.com.br/apartamento-santa-teresinha-sao-paulo-sp-17744-138689",
+        "latitude": "-23.4912218",
+        "longitude": "-46.6379815",
+        "zipcode": "\"02460-040\""
     },
     {
-        "address": " Rua José Debieux, 261 ",
-        "price1": " R$ 1.201.439,99 ",
-        "price2": " R$ 600.719,99 ",
-        "classification": "Prédio Comercial | 490,00m2",
-        "link": "https://www.zukerman.com.br/predio-comercial-santana-sao-paulo-sp-17599-137699"
+        "address": " Rua Geraldo Marino, 59 ",
+        "price1": " R$ 277.000,00 ",
+        "price2": "",
+        "classification": "Casa | 150,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-princesa-sao-paulo-sp-17544-138329",
+        "latitude": "-23.4544186",
+        "longitude": "-46.6928424",
+        "zipcode": "\"02856-040\""
+    },
+    {
+        "address": " Rua Santa Donata, 388 a 430 ",
+        "price1": " R$ 1.708.953,73 ",
+        "price2": " R$ 855.074,47 ",
+        "classification": "Casas | 640,00m2",
+        "link": "https://www.zukerman.com.br/casas-casa-verde-sao-paulo-sp-17490-136812",
+        "latitude": "-23.4906472",
+        "longitude": "-46.65921849999999",
+        "zipcode": "\"02544-010\""
     },
     {
         "address": " Rua Dr. Cesar, 364 ",
         "price1": " R$ 5.349.719,01 ",
         "price2": " R$ 2.481.872,84 ",
         "classification": "Prédio Comercial | 263,20m2",
-        "link": "https://www.zukerman.com.br/predio-comercial-santana-sao-paulo-sp-17739-138412"
+        "link": "https://www.zukerman.com.br/predio-comercial-santana-sao-paulo-sp-17739-138412",
+        "latitude": "-23.5019065",
+        "longitude": "-46.629867",
+        "zipcode": "\"02013-030\""
     },
     {
-        "address": " Rua Amaral Gama, 333 ",
-        "price1": " R$ 1.292.343,34 ",
-        "price2": " R$ 426.000,00 ",
-        "classification": "Conjunto Comercial | 77,77m²",
-        "link": "https://www.zukerman.com.br/conjunto-comercial-santana-sao-paulo-sp-17744-138656"
+        "address": " Rua Manguari, 401 ",
+        "price1": " R$ 268.538,48 ",
+        "price2": " R$ 161.042,52 ",
+        "classification": "Apartamento | 48,48m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-andarai-sao-paulo-sp-17313-136088",
+        "latitude": "-23.523431",
+        "longitude": "-46.5815096",
+        "zipcode": "\"02166\""
     },
     {
-        "address": " Rua Doutor Guilherme Cristofel, 384 ",
-        "price1": " R$ 1.187.202,85 ",
-        "price2": " R$ 593.601,43 ",
-        "classification": "Apartamento | 231,83m²",
-        "link": "https://www.zukerman.com.br/apartamento-santana-sao-paulo-sp-17840-138849"
+        "address": " Avenida Professor Celesteino Bourroul, 890 ",
+        "price1": " R$ 380.646,02 ",
+        "price2": " R$ 228.387,61 ",
+        "classification": "Apartamento | 68,01m²",
+        "link": "https://www.zukerman.com.br/apartamento-limao-sao-paulo-sp-17838-138847",
+        "latitude": "-23.5060159",
+        "longitude": "-46.6728837",
+        "zipcode": "\"02710-001\""
+    },
+    {
+        "address": " Avenida Santa Inês, 881 ",
+        "price1": " R$ 649.310,90 ",
+        "price2": " R$ 389.586,54 ",
+        "classification": "Apartamento | 92,86m²",
+        "link": "https://www.zukerman.com.br/apartamento-parque-mandaqui-sao-paulo-sp-17748-138665",
+        "latitude": "-23.47185",
+        "longitude": "-46.6303673",
+        "zipcode": "\"02415-001\""
+    },
+    {
+        "address": " Rua Soldado Paulo Emídio Pereira, 322 ",
+        "price1": " R$ 454.369,85 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-jardim-japao-sao-paulo-sp-17743-138431",
+        "latitude": "-23.5078785",
+        "longitude": "-46.5760312",
+        "zipcode": "\"02143-000\""
+    },
+    {
+        "address": " Rua José Debieux, 261 ",
+        "price1": " R$ 1.201.439,99 ",
+        "price2": " R$ 600.719,99 ",
+        "classification": "Prédio Comercial | 490,00m2",
+        "link": "https://www.zukerman.com.br/predio-comercial-santana-sao-paulo-sp-17599-137699",
+        "latitude": "-23.4948593",
+        "longitude": "-46.6246347",
+        "zipcode": "\"02038-030\""
     },
     {
         "address": " Rua Miguel Álvares, 242 ",
         "price1": " R$ 552.500,00 ",
         "price2": "",
         "classification": "Casa | 370,00m2",
-        "link": "https://www.zukerman.com.br/casa-tremembe-sao-paulo-sp-15741-129722"
+        "link": "https://www.zukerman.com.br/casa-tremembe-sao-paulo-sp-15741-129722",
+        "latitude": "-23.4532422",
+        "longitude": "-46.6331973",
+        "zipcode": "\"02377-130\""
     },
     {
         "address": " Rua Albertina Vieira da Silva Gordo, 212 ",
         "price1": " R$ 345.136,21 ",
         "price2": " R$ 207.081,72 ",
         "classification": "Apartamento | 68,76m²",
-        "link": "https://www.zukerman.com.br/apartamento-vila-aurora-sao-paulo-sp-17508-136843"
+        "link": "https://www.zukerman.com.br/apartamento-vila-aurora-sao-paulo-sp-17508-136843",
+        "latitude": "-23.4766869",
+        "longitude": "-46.62374430000001",
+        "zipcode": "\"02410\""
     },
     {
-        "address": " Rua Embaixador Régis de Oliveira, 213 e 221 ",
-        "price1": " R$ 640.094,26 ",
-        "price2": " R$ 320.047,13 ",
-        "classification": "Casa | 200,00m2",
-        "link": "https://www.zukerman.com.br/casa-vila-continental-sao-paulo-sp-17501-136836"
+        "address": " Rua Doutor Guilherme Cristofel, 384 ",
+        "price1": " R$ 1.187.202,85 ",
+        "price2": " R$ 593.601,43 ",
+        "classification": "Apartamento | 231,83m²",
+        "link": "https://www.zukerman.com.br/apartamento-santana-sao-paulo-sp-17840-138849",
+        "latitude": "-23.4879097",
+        "longitude": "-46.6299235",
+        "zipcode": "\"02406-010\""
     },
     {
         "address": " Rua Henrique Braglia , 475 ",
         "price1": " R$ 643.200,00 ",
         "price2": "",
         "classification": "Casa",
-        "link": "javascript:link_externo(17859,138993);"
-    },
-    {
-        "address": " Rua Anari, 41 ",
-        "price1": " R$ 665.463,39 ",
-        "price2": " R$ 399.078,39 ",
-        "classification": "Casa | 344,00m2",
-        "link": "https://www.zukerman.com.br/casa-vila-fanton-sao-paulo-sp-17429-136489"
+        "link": "javascript:link_externo(17859,138993);",
+        "latitude": "-23.48911",
+        "longitude": "-46.605936",
+        "zipcode": "\"02244-000\""
     },
     {
         "address": " Rua Launeir Meira Baptista, 56 ",
         "price1": " R$ 153.000,00 ",
         "price2": "",
         "classification": "Casa | 87,10m2",
-        "link": "https://www.zukerman.com.br/casa-vila-gustavo-sao-paulo-sp-17822-138813"
-    },
-    {
-        "address": " Rua Dias da Silva, 824 ",
-        "price1": " R$ 316.299,00 ",
-        "price2": "",
-        "classification": "Apartamento",
-        "link": "https://www.zukerman.com.br/apartamento-vila-maria-sao-paulo-sp-17743-138418"
+        "link": "https://www.zukerman.com.br/casa-vila-gustavo-sao-paulo-sp-17822-138813",
+        "latitude": "-23.4776961",
+        "longitude": "-46.5952403",
+        "zipcode": "\"02253-070\""
     },
     {
         "address": " Rua Estevam Furquim, 224 ",
         "price1": " R$ 153.700,00 ",
         "price2": "",
         "classification": "Apartamento",
-        "link": "javascript:link_externo(17859,138992);"
+        "link": "javascript:link_externo(17859,138992);",
+        "latitude": "-23.4979869",
+        "longitude": "-46.6948143",
+        "zipcode": "\"02675-031\""
+    },
+    {
+        "address": " Rua Amaral Gama, 333 ",
+        "price1": " R$ 1.292.343,34 ",
+        "price2": " R$ 426.000,00 ",
+        "classification": "Conjunto Comercial | 77,77m²",
+        "link": "https://www.zukerman.com.br/conjunto-comercial-santana-sao-paulo-sp-17744-138656",
+        "latitude": "-23.4978824",
+        "longitude": "-46.62795819999999",
+        "zipcode": "\"02013-000\""
+    },
+    {
+        "address": " Rua Dias da Silva, 824 ",
+        "price1": " R$ 316.299,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-vila-maria-sao-paulo-sp-17743-138418",
+        "latitude": "-23.5190102",
+        "longitude": "-46.5886942",
+        "zipcode": "\"02114-001\""
+    },
+    {
+        "address": " Rua Embaixador Régis de Oliveira, 213 e 221 ",
+        "price1": " R$ 640.094,26 ",
+        "price2": " R$ 320.047,13 ",
+        "classification": "Casa | 200,00m2",
+        "link": "https://www.zukerman.com.br/casa-vila-continental-sao-paulo-sp-17501-136836",
+        "latitude": "-23.4689284",
+        "longitude": "-46.6541817",
+        "zipcode": "\"02616-040\""
+    },
+    {
+        "address": " Rua Anari, 41 ",
+        "price1": " R$ 665.463,39 ",
+        "price2": " R$ 399.078,39 ",
+        "classification": "Casa | 344,00m2",
+        "link": "https://www.zukerman.com.br/casa-vila-fanton-sao-paulo-sp-17429-136489",
+        "latitude": "-23.4060996",
+        "longitude": "-46.7407122",
+        "zipcode": "\"02675-031\""
     }
 ]
