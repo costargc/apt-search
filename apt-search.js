@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 var fs = require('fs');
 
-async function APTsearch() {
+async function APTsearch(urllink, filename) {
     results = [];
     var i = 1;
     var checkloop = true;
@@ -11,9 +11,8 @@ async function APTsearch() {
 
         checkloop = false;
 
-        const url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/centro?pagina=' + i;
-        // const url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-sul?pagina=1';
-        // const url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-norte?pagina=1';
+        const url = urllink + i;
+
 
         console.log(url);
         const response = await fetch(url);
@@ -56,11 +55,21 @@ async function APTsearch() {
             i = i + 1;
         }
         else {
-            fs.writeFile("./data.json", JSON.stringify(results), function (err) {
+            fs.writeFile("./" + filename + ".json", JSON.stringify(results), function (err) {
                 if (err) { console.log(err); }
             })
         }
     }
 }
 
-APTsearch();
+
+url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/centro?pagina=';
+filename = "SP_centro"
+
+// url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-sul?pagina=';
+// filename = "SP_sul"
+
+// url = 'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-norte?pagina=';
+// filename = "SP_norte"
+
+APTsearch(url, filename);
