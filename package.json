@@ -1,0 +1,23 @@
+{
+  "name": "apt-search",
+  "version": "1.0.0",
+  "description": "Data science project to help identify apartment opportunities to buying in Brazil using data from Real Estate Auctions for discounted residential bank-owned and foreclosure home deals. Data collected from zukerman.com.br.",
+  "main": "apt-search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costargc/apt-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costargc/apt-search/issues"
+  },
+  "homepage": "https://github.com/costargc/apt-search#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0"
+  }
+}
