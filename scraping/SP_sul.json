@@ -1,0 +1,597 @@
+[
+    {
+        "address": " Rua Castro Alves, 488 ",
+        "price1": " R$ 3.200.204,00 ",
+        "price2": " R$ 1.920.122,40 ",
+        "classification": "Apartamento | 342,29m²",
+        "link": "https://www.zukerman.com.br/apartamento-aclimacao--sao-paulo-sp-17798-138768"
+    },
+    {
+        "address": " Rua José Eid Maluf, 112, 114, 116 e 118 ",
+        "price1": " R$ 142.800,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-americanopolis-sao-paulo-sp-17875-139052"
+    },
+    {
+        "address": " Rua Pascal, 181 ",
+        "price1": " R$ 3.990.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 542,67m²",
+        "link": "https://www.zukerman.com.br/apartamento-brooklin-novo-sao-paulo-sp-17572-137636"
+    },
+    {
+        "address": " Rua Joaquim Nabuco, 835 ",
+        "price1": " R$ 1.700.000,00 ",
+        "price2": "",
+        "classification": "Casa | 1.200,00m2",
+        "link": "https://www.zukerman.com.br/casa-brooklin-paulista-sao-paulo-sp-16760-133736"
+    },
+    {
+        "address": " Rua Professor João Batista de Castro, 196 ",
+        "price1": " R$ 808.263,89 ",
+        "price2": " R$ 404.131,94 ",
+        "classification": "Casa | 146,00m2",
+        "link": "https://www.zukerman.com.br/casa-brooklin-paulista-sao-paulo-sp-17581-137660"
+    },
+    {
+        "address": " Avenida Santo Amaro, 4327 ",
+        "price1": " R$ 743.700,00 ",
+        "price2": "",
+        "classification": "Sala",
+        "link": "https://www.zukerman.com.br/sala-brooklin-paulista-sao-paulo-sp-17858-138886"
+    },
+    {
+        "address": " Rua Cristóvão Pereira, 1170 ",
+        "price1": " R$ 946.259,21 ",
+        "price2": " R$ 756.628,86 ",
+        "classification": "Sobrado | 152,50m2",
+        "link": "https://www.zukerman.com.br/sobrado-campo-belo-sao-paulo-sp-17277-136013"
+    },
+    {
+        "address": " Rua José dos Santos Júnior, 319 ",
+        "price1": " R$ 1.548.646,53 ",
+        "price2": " R$ 774.323,26 ",
+        "classification": "Casa | 300,00m2",
+        "link": "https://www.zukerman.com.br/casa-campo-belo-sao-paulo-sp-17337-136183"
+    },
+    {
+        "address": " Rua Vapabussu, 66 ",
+        "price1": " R$ 923.732,08 ",
+        "price2": " R$ 1.312.503,98 ",
+        "classification": "Apartamento | 73,50m²",
+        "link": "https://www.zukerman.com.br/apartamento-campo-belo-sao-paulo-sp-17861-139022"
+    },
+    {
+        "address": " Rua Flávio Nobre de Campos, 166 ",
+        "price1": " R$ 259.100,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-capao-redondo-sao-paulo-sp-17875-139055"
+    },
+    {
+        "address": " Rua Pensilvânia, 360 ",
+        "price1": " R$ 771.672,01 ",
+        "price2": " R$ 385.836,01 ",
+        "classification": "Apartamento | 82,23m²",
+        "link": "https://www.zukerman.com.br/apartamento-cidade-moncoes-sao-paulo-sp-17446-136519"
+    },
+    {
+        "address": " Rua Flórida , 1758 ",
+        "price1": " R$ 1.053.047,33 ",
+        "price2": " R$ 631.828,40 ",
+        "classification": "Conjunto Comercial | 313,16m²",
+        "link": "https://www.zukerman.com.br/conjunto-comercial-cidade-moncoes-sao-paulo-sp-17770-138717"
+    },
+    {
+        "address": " Rua Pradópolis, 57 ",
+        "price1": " R$ 224.021,23 ",
+        "price2": " R$ 156.814,86 ",
+        "classification": "Casa | 70,00m2",
+        "link": "https://www.zukerman.com.br/casa-conjunto-habitacional-brigadeiro-faria-lima-sao-paulo-sp-17646-137846"
+    },
+    {
+        "address": " Rua Clamecy, 220 ",
+        "price1": " R$ 369.600,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "javascript:link_externo(17859,138984);"
+    },
+    {
+        "address": " Rua Ribeiro Lisboa, 165 ",
+        "price1": " R$ 2.276.022,69 ",
+        "price2": " R$ 1.138.011,34 ",
+        "classification": "Casa | 1.200,00m2",
+        "link": "https://www.zukerman.com.br/casa-fazenda-morumbi-sao-paulo-sp-17625-137821"
+    },
+    {
+        "address": " Rua Tapes, 301 ",
+        "price1": " R$ 912.574,29 ",
+        "price2": " R$ 821.316,86 ",
+        "classification": "Casa | 225,00m2",
+        "link": "https://www.zukerman.com.br/casa-ibirapuera-sao-paulo-sp-17788-138752"
+    },
+    {
+        "address": " Avenida dos Eucaliptos, 113 ",
+        "price1": " R$ 1.352.295,09 ",
+        "price2": " R$ 811.377,06 ",
+        "classification": "Apartamento | 111,66m²",
+        "link": "https://www.zukerman.com.br/apartamento-indianopolis-sao-paulo-sp-17690-138141"
+    },
+    {
+        "address": " Avenida Jacutinga, 647 ",
+        "price1": " R$ 1.987.016,98 ",
+        "price2": " R$ 1.192.210,19 ",
+        "classification": "Apartamento | 199,19m²",
+        "link": "https://www.zukerman.com.br/apartamento-indianopolis-sao-paulo-sp-17775-138724"
+    },
+    {
+        "address": " Rua da Constituinte, 57 ",
+        "price1": " R$ 1.297.115,32 ",
+        "price2": " R$ 648.233,37 ",
+        "classification": "Apartamento | 142,71m²",
+        "link": "https://www.zukerman.com.br/apartamento-ipiranga-sao-paulo-sp-17304-136079"
+    },
+    {
+        "address": " Rua Ponte Delgada, 76 ",
+        "price1": " R$ 396.161,77 ",
+        "price2": " R$ 198.080,89 ",
+        "classification": "Apartamento | 69,38m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-paulista-sao-paulo-sp-17725-138361"
+    },
+    {
+        "address": " Rua Comendador Júlio Pereira Lopes, 210 ",
+        "price1": " R$ 1.525.100,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-jardim-da-gloria-sao-paulo-sp-17875-139042"
+    },
+    {
+        "address": " Rua Coronel Diogo, 1429 ",
+        "price1": " R$ 504.264,08 ",
+        "price2": " R$ 252.132,04 ",
+        "classification": "Apartamento | 100,00m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-gloria-sao-paulo-sp-17818-138794"
+    },
+    {
+        "address": " Rua Engenheiro Janot Pacheco, 110 ",
+        "price1": " R$ 1.550.000,00 ",
+        "price2": "",
+        "classification": "Casa | 530,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-guedala-sao-paulo-sp-15838-130081"
+    },
+    {
+        "address": " Avenida Roberto Lorenz, 822 ",
+        "price1": " R$ 3.600.000,00 ",
+        "price2": "",
+        "classification": "Casa | 1.686,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-guedala-sao-paulo-sp-17404-136449"
+    },
+    {
+        "address": " Rua Doutor Queirós Guimarães, 167 ",
+        "price1": " R$ 3.030.138,10 ",
+        "price2": " R$ 1.818.082,86 ",
+        "classification": "Casa | 953,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-guedala-sao-paulo-sp-17536-137513"
+    },
+    {
+        "address": " Rua Carlos Pedrell, 207 ",
+        "price1": " R$ 255.100,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "javascript:link_externo(17859,138981);"
+    },
+    {
+        "address": " Rua Professor Eduardo Monteiro, 100 ",
+        "price1": " R$ 3.185.885,22 ",
+        "price2": " R$ 1.592.942,61 ",
+        "classification": "Casa | 760,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-leonor-sao-paulo-sp-17774-138723"
+    },
+    {
+        "address": " Avenida Doutor Guilherme Dumont Villares, 601 ",
+        "price1": " R$ 389.994,55 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-londrina-sao-paulo-sp-17743-138429"
+    },
+    {
+        "address": " Estrada das Lágrimas, 3223 ",
+        "price1": " R$ 151.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 53,46m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-noemia-sao-paulo-sp-17732-138395"
+    },
+    {
+        "address": " Rua Marino Pinto, 78 ",
+        "price1": " R$ 247.770,05 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-jardim-palmares-sao-paulo-sp-17743-138437"
+    },
+    {
+        "address": " Rua Acutiranha, 340 ",
+        "price1": " R$ 1.980.000,00 ",
+        "price2": "",
+        "classification": "Casa | 575,00m2",
+        "link": "https://www.zukerman.com.br/casa-jardim-panorama-sao-paulo-sp-17558-137584"
+    },
+    {
+        "address": " Rua José Carlos de Toledo Piza, 101 ",
+        "price1": " R$ 879.722,89 ",
+        "price2": " R$ 527.833,73 ",
+        "classification": "Apartamento | 195,55m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-parque-morumbi-sao-paulo-sp-17612-137746"
+    },
+    {
+        "address": " Rua José Carlos de Toledo Piza, 175 ",
+        "price1": " R$ 226.746,45 ",
+        "price2": " R$ 136.047,87 ",
+        "classification": "Apartamento | 63,72m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-parque-morumbi-sao-paulo-sp-17723-138358"
+    },
+    {
+        "address": " Rua Batataes, 558 ",
+        "price1": " R$ 350.770,41 ",
+        "price2": " R$ 175.385,20 ",
+        "classification": "Apartamento | 40,78m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-paulista-sao-paulo-sp-17599-137698"
+    },
+    {
+        "address": " Rua Nossa Senhora da Saúde, 1330 ",
+        "price1": " R$ 271.266,60 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-previdencia-sao-paulo-sp-17743-138424"
+    },
+    {
+        "address": " Rua Zike Tuma, 142 ",
+        "price1": " R$ 423.457,65 ",
+        "price2": " R$ 211.728,83 ",
+        "classification": "Apartamento | 67,43m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-ubirajara-sao-paulo-sp-17784-138735"
+    },
+    {
+        "address": " Rua Zike Tuma, 576 ",
+        "price1": " R$ 241.500,00 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-jardim-ubirajara-sao-paulo-sp-17875-139066"
+    },
+    {
+        "address": " Avenida Padre Arlindo Vieira, 1217 ",
+        "price1": " R$ 277.731,78 ",
+        "price2": " R$ 166.639,07 ",
+        "classification": "Apartamento | 50,16m²",
+        "link": "https://www.zukerman.com.br/apartamento-jardim-vergueiro-sao-paulo-sp-17801-138771"
+    },
+    {
+        "address": " Rua Dankmar Adler, 177 ",
+        "price1": " R$ 899.000,00 ",
+        "price2": "",
+        "classification": "Apartamento Duplex | 172,23m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-morumbi-sao-paulo-sp-17009-134368"
+    },
+    {
+        "address": " Rua Dankmar Adler, 177 ",
+        "price1": " R$ 989.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 208,05m²",
+        "link": "https://www.zukerman.com.br/apartamento-morumbi-sao-paulo-sp-17009-134369"
+    },
+    {
+        "address": " Rua Desembargador Amorim Lima, 148 ",
+        "price1": " R$ 7.629.247,99 ",
+        "price2": " R$ 5.337.803,29 ",
+        "classification": "Apartamento | 585,30m²",
+        "link": "https://www.zukerman.com.br/apartamento-morumbi-sao-paulo-sp-17322-136097"
+    },
+    {
+        "address": " Avenida Giovanni Gronchi, 5021 ",
+        "price1": " R$ 600.000,00 ",
+        "price2": "",
+        "classification": "Apartamento Duplex | 408,89m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-morumbi-sao-paulo-sp-17437-136497"
+    },
+    {
+        "address": " Rua Maria Nader Calfat, 270 ",
+        "price1": " R$ 133.000,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "javascript:link_externo(17859,138991);"
+    },
+    {
+        "address": " Rua Doutor Tomás Carvalhal, 826 ",
+        "price1": " R$ 1.578.918,13 ",
+        "price2": " R$ 789.459,06 ",
+        "classification": "Apartamento | 131,82m²",
+        "link": "https://www.zukerman.com.br/apartamento-paraiso-sao-paulo-sp-17768-138715"
+    },
+    {
+        "address": " Rua Rafael Carrozzo, 100 ",
+        "price1": " R$ 784.661,69 ",
+        "price2": " R$ 470.561,61 ",
+        "classification": "Apartamento | 145,45m²",
+        "link": "https://www.zukerman.com.br/apartamento-paraiso-do-morumbi-sao-paulo-sp-17342-136189"
+    },
+    {
+        "address": " Rua Pasquale Gallupi, 427 ",
+        "price1": " R$ 125.756,40<span class=\"sqla\"> | 1 lance</span> ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-paraisopolis-sao-paulo-sp-17743-138427"
+    },
+    {
+        "address": " Rua Biobedas, 49 ",
+        "price1": " R$ 1.097.737,29 ",
+        "price2": " R$ 539.511,41 ",
+        "classification": "Apartamento | 76,91m²",
+        "link": "https://www.zukerman.com.br/apartamento-parque-imperial-sao-paulo-sp-17744-138693"
+    },
+    {
+        "address": " Rua Chapada de Minas, 210 ",
+        "price1": " R$ 288.000,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-parque-reboucas-sao-paulo-sp-17875-139064"
+    },
+    {
+        "address": " Rua Dom Paulo Pedrosa, 1282 ",
+        "price1": " R$ 1.350.000,00 ",
+        "price2": "",
+        "classification": "Apartamento Duplex | 492,95m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-real-parque-sao-paulo-sp-16285-132062"
+    },
+    {
+        "address": " Rua Mattia Filizzola, 127 ",
+        "price1": " R$ 2.500.000,00 ",
+        "price2": "",
+        "classification": "Apartamento Duplex | 881,31m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-real-parque-sao-paulo-sp-16743-133639"
+    },
+    {
+        "address": " Avenida São Paulo Antigo, 801 ",
+        "price1": " R$ 3.100.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 405,80m²",
+        "link": "https://www.zukerman.com.br/apartamento-real-parque-sao-paulo-sp-16870-134125"
+    },
+    {
+        "address": " Rua Visconde de Nacar, 163 ",
+        "price1": " R$ 1.043.562,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-real-parque-sao-paulo-sp-17743-138420"
+    },
+    {
+        "address": " Avenida Vereador José Diniz, 1.074 ",
+        "price1": " R$ 952.779,10 ",
+        "price2": " R$ 476.389,55 ",
+        "classification": "Casa | 229,50m2",
+        "link": "https://www.zukerman.com.br/casa-santo-amaro-sao-paulo-sp-17337-136182"
+    },
+    {
+        "address": " Avenida Adolfo Pinheiro, 1.850 ",
+        "price1": " R$ 506.679,61 ",
+        "price2": " R$ 253.339,81 ",
+        "classification": "Apartamento | 99,33m²",
+        "link": "https://www.zukerman.com.br/apartamento-santo-amaro-sao-paulo-sp-17676-137906"
+    },
+    {
+        "address": " Avenida Giovanni Gronchi, 3975 ",
+        "price1": " R$ 390.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 285,97m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-andrade-sao-paulo-sp-17235-135947"
+    },
+    {
+        "address": " Rua Alexandre Benois, 180 ",
+        "price1": " R$ 1.131.006,98 ",
+        "price2": " R$ 565.220,73 ",
+        "classification": "Apartamento | 254,70m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-andrade-sao-paulo-sp-17309-136084"
+    },
+    {
+        "address": " Rua Charles Spencer Chaplin, 199 ",
+        "price1": " R$ 1.440.000,00 ",
+        "price2": "",
+        "classification": "Apartamento Duplex | 398,68m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-vila-andrade-sao-paulo-sp-17571-137632"
+    },
+    {
+        "address": " Rua Francisco Pessoa, 181 ",
+        "price1": " R$ 559.401,95 ",
+        "price2": " R$ 279.700,98 ",
+        "classification": "Apartamento | 130,20m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-andrade-sao-paulo-sp-17627-137823"
+    },
+    {
+        "address": " Rua Charles Spencer Chaplin, 204 ",
+        "price1": " R$ 300.168,55 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-vila-andrade-sao-paulo-sp-17743-138441"
+    },
+    {
+        "address": " Rua Carvalho de Freitas, 255 ",
+        "price1": " R$ 542.000,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "javascript:link_externo(17859,139004);"
+    },
+    {
+        "address": " Rua Chibata, 61 ",
+        "price1": " R$ 165.500,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-vila-andrade-sao-paulo-sp-17875-139050"
+    },
+    {
+        "address": " Avenida Marginal Esquerda Anchieta, 3.609 ",
+        "price1": " R$ 308.095,02 ",
+        "price2": " R$ 154.047,51 ",
+        "classification": "Apartamento | 61,77m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-arapua-sao-paulo-sp-17568-137629"
+    },
+    {
+        "address": " Rua Ministro Oscar Saraiva, 63 ",
+        "price1": " R$ 362.925,05 ",
+        "price2": "",
+        "classification": "Casa",
+        "link": "https://www.zukerman.com.br/casa-vila-brasilio-machado-sao-paulo-sp-17743-138445"
+    },
+    {
+        "address": " Rua Antônio José Vaz, 177 ",
+        "price1": " R$ 409.415,13 ",
+        "price2": " R$ 204.707,57 ",
+        "classification": "Apartamento | 77,49m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-caraguata-sao-paulo-sp-17548-137534"
+    },
+    {
+        "address": " Avenida Doutor Altino Arantes, 574 ",
+        "price1": " R$ 442.795,70 ",
+        "price2": " R$ 265.677,42 ",
+        "classification": "Apartamento | 61,41m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-clementino-sao-paulo-sp-17649-137849"
+    },
+    {
+        "address": " Avenida Doutor Altino Arantes, 669 ",
+        "price1": " R$ 667.209,61 ",
+        "price2": " R$ 333.604,80 ",
+        "classification": "Apartamento | 84,38m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-clementino-sao-paulo-sp-17672-137902"
+    },
+    {
+        "address": " Rua Pero Peres, 144 e 146 ",
+        "price1": " R$ 282.500,00 ",
+        "price2": "",
+        "classification": "Casa | 245,50m2",
+        "link": "https://www.zukerman.com.br/casa-vila-cruzeiro-sao-paulo-sp-17544-138324"
+    },
+    {
+        "address": " Rua Maria Bucalem Haddad, 148 ",
+        "price1": " R$ 417.374,02 ",
+        "price2": " R$ 208.687,01 ",
+        "classification": "Apartamento | 79,96m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-firmiano-pinto-sao-paulo-sp-17656-137868"
+    },
+    {
+        "address": " Rua Simão da Matta, 552 ",
+        "price1": " R$ 427.209,80 ",
+        "price2": " R$ 256.325,88 ",
+        "classification": "Terreno | 221,00m2",
+        "link": "https://www.zukerman.com.br/terreno-vila-guarani--sao-paulo-sp-17824-138829"
+    },
+    {
+        "address": " Rua Itatiaia, 2 e 2 Fundos ",
+        "price1": " R$ 462.365,71 ",
+        "price2": " R$ 277.419,43 ",
+        "classification": "Galpão | 311,88m2",
+        "link": "https://www.zukerman.com.br/galpao-vila-guarani--sao-paulo-sp-17824-138830"
+    },
+    {
+        "address": " Avenida Ramalho Ortigão, 70 ",
+        "price1": " R$ 818.734,30 ",
+        "price2": " R$ 491.240,58 ",
+        "classification": "Apartamento | 94,74m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-gumercindo-sao-paulo-sp-17655-137867"
+    },
+    {
+        "address": " Rua Dom Antônio de Alvarenga, 88 ",
+        "price1": " R$ 845.032,51 ",
+        "price2": " R$ 507.019,51 ",
+        "classification": "Casas | 280,00m2",
+        "link": "https://www.zukerman.com.br/casas-vila-gumercindo-sao-paulo-sp-17866-139030"
+    },
+    {
+        "address": " Rua João Álvares Correia, 55 ",
+        "price1": " R$ 573.352,94 ",
+        "price2": " R$ 286.676,47 ",
+        "classification": "Apartamento | 47,43m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-mariana-sao-paulo-sp-17686-137942"
+    },
+    {
+        "address": " Rua Ernesto de Oliveira, 189 ",
+        "price1": " R$ 790.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 133,88m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-mariana-sao-paulo-sp-17772-138721"
+    },
+    {
+        "address": " Rua Palacete das Águias, 656 ",
+        "price1": " R$ 399.000,00 ",
+        "price2": "",
+        "classification": "Apartamento | 73,97m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-mascote-sao-paulo-sp-17009-134370"
+    },
+    {
+        "address": " Rua Jovina, 344 ",
+        "price1": " R$ 428.500,00 ",
+        "price2": "",
+        "classification": "Apartamento | 104,05m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-mascote-sao-paulo-sp-17544-138314"
+    },
+    {
+        "address": " Rua Santa, 71 ",
+        "price1": " R$ 538.790,76 ",
+        "price2": " R$ 323.274,45 ",
+        "classification": "Apartamento | 95,32m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-mascote-sao-paulo-sp-17731-138367"
+    },
+    {
+        "address": " Rua Ari Cajado, 207 ",
+        "price1": " R$ 501.651,47 ",
+        "price2": " R$ 250.825,73 ",
+        "classification": "Casa | 84,56m2",
+        "link": "https://www.zukerman.com.br/casa-vila-monumento-sao-paulo-sp-17628-137824"
+    },
+    {
+        "address": " Avenida Santo Amaro, 2.182 ",
+        "price1": " R$ 852.595,88 ",
+        "price2": " R$ 426.297,94 ",
+        "classification": "Apartamento | 127,95m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-nova-conceicao-sao-paulo-sp-17871-139035"
+    },
+    {
+        "address": " Rua Doutor Andrade Pertence, 91 ",
+        "price1": " R$ 1.200.000,00 ",
+        "price2": "",
+        "classification": "Residencial / Comercial | 140,00m2",
+        "link": "https://www.zukerman.com.br/residencial-comercial-vila-olimpia-sao-paulo-sp-17571-137634"
+    },
+    {
+        "address": " Rua Doutor Djalma Pinheiro Franco, 30 ",
+        "price1": " R$ 504.058,62 ",
+        "price2": " R$ 302.435,17 ",
+        "classification": "Apartamento | 82,96m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-santa-catarina-sao-paulo-sp-17810-138780"
+    },
+    {
+        "address": " Rua Marcus Pereira, 37 ",
+        "price1": " R$ 628.863,32 ",
+        "price2": "",
+        "classification": "Apartamento | 246,50m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-suzana-sao-paulo-sp-17644-137844"
+    },
+    {
+        "address": " Rua Samia Haddad, 111 ",
+        "price1": " R$ 828.058,81 ",
+        "price2": " R$ 435.467,72 ",
+        "classification": "Apartamento Duplex | 84,37m²",
+        "link": "https://www.zukerman.com.br/apartamento-duplex-vila-suzana-sao-paulo-sp-17718-138370"
+    },
+    {
+        "address": " Rua Correggio, 251 ",
+        "price1": " R$ 524.858,47 ",
+        "price2": " R$ 262.429,23 ",
+        "classification": "Apartamento | 120,96m²",
+        "link": "https://www.zukerman.com.br/apartamento-vila-suzana-sao-paulo-sp-17819-138795"
+    },
+    {
+        "address": " Rua Domingos Lopes da Silva, 1042 ",
+        "price1": " R$ 500.000,00 ",
+        "price2": "",
+        "classification": "Apartamento",
+        "link": "https://www.zukerman.com.br/apartamento-vila-suzana-sao-paulo-sp-17875-139063"
+    }
+]
