@@ -98,17 +98,20 @@ async function APTsearch(urllink, filename) {
 url = [
     'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/centro?pagina=',
     'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-sul?pagina=',
-    'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-norte?pagina='
+    'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo/zona-norte?pagina=',
+    'https://www.zukerman.com.br/leilao-de-imoveis/sp/sao-paulo?pagina='
 ]
 filename = [
     "SP_centro",
     "SP_sul",
-    "SP_norte"
+    "SP_norte",
+    "SP_all"
 ]
 
-APTsearch(url[0], filename[0]);
-APTsearch(url[1], filename[1]);
-APTsearch(url[2], filename[2]);
+// APTsearch(url[0], filename[0]);
+// APTsearch(url[1], filename[1]);
+// APTsearch(url[2], filename[2]);
+APTsearch(url[3], filename[3]);
 
 
 // place holder
