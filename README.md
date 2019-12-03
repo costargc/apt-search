@@ -21,6 +21,6 @@ node apt-scoring.js
 
 Isto vai gerar uma lista em order decrescente dos melhores lugares disponíveis com base na sua própria localização.
 
-*TO DO:*
+# TO DO:
 
 [  ] adicionar uma interface para o usuário fazer isto tudo diretamente (adicionar pontos de interesse, baixar arquivos atuais e executar scoring)
