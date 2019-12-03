@@ -18,6 +18,7 @@
   "homepage": "https://github.com/costargc/apt-search#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "geolib": "^3.1.0",
     "node-fetch": "^2.6.0",
     "node-geocoder": "^3.24.0"
   }

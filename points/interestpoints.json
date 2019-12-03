@@ -2,76 +2,91 @@
     {
         "place": "Rua da Graça, 135",
         "latitude": "-23.5301672",
-        "longitude": "-46.6385909"
+        "longitude": "-46.6385909",
+        "reward": "positive"
     },
     {
         "place": "Rua Vinte e Cinco de Janeiro, 180",
         "latitude": "-23.5354655",
-        "longitude": "-46.6315934"
+        "longitude": "-46.6315934",
+        "reward": "positive"
     },
     {
         "place": "Av. Brigadeiro Faria Lima, 3900",
         "latitude": "-23.589955",
-        "longitude": "-46.6819692"
+        "longitude": "-46.6819692",
+        "reward": "positive"
     },
     {
         "place": "Shopping Eldorado",
         "latitude": "-23.5728514",
-        "longitude": "-46.6965975"
+        "longitude": "-46.6965975",
+        "reward": "positive"
     },
     {
         "place": "Estação da Luz",
         "latitude": "-23.536494",
-        "longitude": "-46.6343054"
+        "longitude": "-46.6343054",
+        "reward": "positive"
     },
     {
         "place": "Shopping Center Norte",
         "latitude": "-23.5155301",
-        "longitude": "-46.6183417"
+        "longitude": "-46.6183417",
+        "reward": "positive"
     },
     {
         "place": "Estação Tiradentes",
         "latitude": "-23.5310159",
-        "longitude": "-46.6330636"
+        "longitude": "-46.6330636",
+        "reward": "positive"
     },
     {
         "place": "Avenida Braz Leme, 2011",
         "latitude": "-23.5043619",
-        "longitude": "-46.6407916"
+        "longitude": "-46.6407916",
+        "reward": "positive"
     },
     {
         "place": "Praça da Liberdade, 262",
         "latitude": "-23.5559113",
-        "longitude": "-46.6352905"
+        "longitude": "-46.6352905",
+        "reward": "positive"
     },
     {
         "place": "Parque do Ibirapuera",
         "latitude": "-23.5878156",
-        "longitude": "-46.6557317"
+        "longitude": "-46.6557317",
+        "reward": "positive"
     },
     {
         "place": "Instituto de Física da USP",
         "latitude": "-23.5606714",
-        "longitude": "-46.7331986"
+        "longitude": "-46.7331986",
+        "reward": "positive"
     },
     {
         "place": "Metrô Ana Rosa",
         "latitude": "-23.5815366",
-        "longitude": "-46.6386679"
+        "longitude": "-46.6386679",
+        "reward": "positive"
     },
     {
         "place": "Metrô Saúde",
         "latitude": "-23.6185786",
-        "longitude": "-46.6394315"
+        "longitude": "-46.6394315",
+        "reward": "positive"
     },
     {
         "place": "Metrô Oscar Freire",
         "latitude": "-23.5606011",
-        "longitude": "-46.6722591"
+        "longitude": "-46.6722591",
+        "reward": "positive"
     },
     {
         "place": "Metrô Bresser-Mooca",
         "latitude": "-23.5462018",
-        "longitude": "-46.6071548"
+        "longitude": "-46.6071548",
+        "reward": "positive"
     }
 ]
